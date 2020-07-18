@@ -3,3 +3,4 @@
 * [실력이 부족한 주니어 개발자의 이직기](https://dduddublog.tistory.com/m/52)
 * [비전공 학원출신 SI개발자, 유명스타트업 들어간.ssul](https://jojoldu.tistory.com/247)
 * [개발자 이력서 작성하기](https://brunch.co.kr/@hee072794/132)
+* [아웃사이더 이력서](https://blog.outsider.ne.kr/1234)
