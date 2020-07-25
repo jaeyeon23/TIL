@@ -4,3 +4,4 @@
 * [비전공 학원출신 SI개발자, 유명스타트업 들어간.ssul](https://jojoldu.tistory.com/247)
 * [개발자 이력서 작성하기](https://brunch.co.kr/@hee072794/132)
 * [아웃사이더 이력서](https://blog.outsider.ne.kr/1234)
+* [원티드 개발자 커리어](https://www.notion.so/8a5fb590ae204295adf8117b5f58e32e)
