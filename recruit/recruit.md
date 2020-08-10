@@ -5,3 +5,4 @@
 * [개발자 이력서 작성하기](https://brunch.co.kr/@hee072794/132)
 * [아웃사이더 이력서](https://blog.outsider.ne.kr/1234)
 * [원티드 개발자 커리어](https://www.notion.so/8a5fb590ae204295adf8117b5f58e32e)
+* [MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지](https://jojoldu.tistory.com/423)
