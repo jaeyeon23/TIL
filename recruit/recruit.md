@@ -7,3 +7,4 @@
 * [원티드 개발자 커리어](https://www.notion.so/8a5fb590ae204295adf8117b5f58e32e)
 * [MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지](https://jojoldu.tistory.com/423)
 * [이직초보 어느 개발자의 이력서 만들기](https://woowabros.github.io/experience/2017/07/17/resume.html)
+* [강디너의 이직 탐험기](https://kdinner.tistory.com/58)
