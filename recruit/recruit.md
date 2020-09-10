@@ -11,3 +11,4 @@
 
 # 이직 시 읽을 정보
 * [Technical-Interview](https://github.com/KSH-code/Technical-Interview/blob/master/README.md)
+* [면접 질문 리스트](https://github.com/KimHunJin/Study-Book/tree/master/interview)
