@@ -1,5 +1,5 @@
 # notion 작성 일지
-이력서 -> https://www.notion.so/1483ee72d2604f89a71e9025a8d550c9
+이력서 -> https://www.notion.so/1483ee72d2604f89a71e9025a8d550c9  
 메인 페이지 -> [My Blog](https://www.notion.so/356318d6d2254dcabce0f6fe7b027ff9?v=06559c90437d46acaf5a69460d24e43d)
 
 JAVA 기본
