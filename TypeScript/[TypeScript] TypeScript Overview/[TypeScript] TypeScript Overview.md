@@ -11,7 +11,7 @@ Person: JaeYeon Park
     → 그래서 Transpile이라는 용어를 사용하기도 한다. ex) babel
 
 - 자바스크립트는 'Interpreted Language'이다.
-<img src="./[TypeScript] TypeScript Overview/[TypeScript] TypeScript Overview Image/Untitled.png">
+<img src="./[TypeScript] TypeScript Overview Image/Untitled.png">
 
 ## Traditional Compiled Language (참고용)
 
