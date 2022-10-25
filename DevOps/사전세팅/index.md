@@ -1,10 +1,12 @@
-# Homebrew 설치 및 사용법(mac OS)
+# 사전 세팅
 
-## Homebrew 소개
+## Homebrew 설치 및 사용법(mac OS)
+
+### Homebrew 소개
 - mac os 운영체제의 패키지 관리자
 - 주로 CLI 도구나 시스템 패키지 설치에 사용
 
-## Homebrew 기본 사용 방법
+### Homebrew 기본 사용 방법
 - 패키지 검색
 ```
 brew search TEXT|/REGEX
@@ -32,3 +34,4 @@ brew update
 - Homebrew Cask
 > Homebrew를 확장하여 GUI 어플리케이션 설치까지 지원
 > 기존 Homebrew 명령어에 '--cask' 옵션 사용
+
