@@ -56,8 +56,19 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 ```
 
-### WSL2 사용 설정
+- Microsoft Store에서 Ubuntu LTS 설치
+> PowerShell에서 확인
+```
+wsl -l -v
+```
 
-### Windows Terminal 설치
-
-
+### WSL2 사용 설정  
+https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
+> 해당 파일 설치 후 아래 명령어를 통해 버전 변경
+```
+wsl --set-version Ubuntu-20.04 2
+```
+> wsl 기본 버전 2버전으로 변경
+```
+wsl --set-default-version 2
+```
