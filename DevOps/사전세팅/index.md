@@ -35,3 +35,29 @@ brew update
 > Homebrew를 확장하여 GUI 어플리케이션 설치까지 지원
 > 기존 Homebrew 명령어에 '--cask' 옵션 사용
 
+---
+
+## WSL2 + Ubuntu LTS 구성 (Windows)
+
+### WSL 소개
+- Windows Subsystem for Linux의 약자로 윈도우에서 리눅스를 사용할 수 있도록 만들어주는 기술
+
+### WSL 사용 설정 및 Ubuntu 설치
+- DISM 명령어
+- 윈도우 이미지와 관련된 조작을 위한 커맨드 명령어
+
+> WSL 활성화
+```
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+
+```
+> 가상머신 플랫폼 활성화
+```
+dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+```
+
+### WSL2 사용 설정
+
+### Windows Terminal 설치
+
+
